@@ -3,7 +3,9 @@ This is a discord bot that is used for the software engineering group project di
 
 ##Burndown Chart Commands
 !tasks -> lists all the tasks in chart
+
 !log task time -> adds task to the burndown (task = task name, time = units)
+
 !add -> adds new task to burndown chart
 
 ##Github Commands
