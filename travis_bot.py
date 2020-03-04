@@ -3,7 +3,6 @@ from discord.ext import commands
 from datetime import date
 
 bot = commands.Bot(command_prefix = '!')
-id = bot.get_guild(684446737313955871)
 
 @bot.event
 async def on_ready():
@@ -75,4 +74,4 @@ async def status(ctx):
     await ctx.send('Fetching info from github')
     await ctx.send('Fetch error')
 
-bot.run('Njg0NzA3ODA0NTk0MTc2MTI2.Xl-fgg.8eJWa36qMbFH6-AQW672X5hmYcI')
+bot.run('')
