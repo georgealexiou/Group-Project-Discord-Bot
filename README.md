@@ -8,7 +8,3 @@ This is a discord bot that is used for the software engineering group project di
 !log task time -> adds task to the burndown (task = task name, time = units)
 
 !add -> adds new task to burndown chart
-
-## Github Commands
-
-will be added later today...
